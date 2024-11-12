@@ -1,3 +1,5 @@
+# APPENDIX C – DEVELOPMENT OF CUTTING PATH
+
 ## 3.1. Defining the number of splits of the surface in longitudinal and transversal directions:
 
 ns_l = 3<br>
