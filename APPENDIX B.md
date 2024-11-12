@@ -1,3 +1,5 @@
+# APPENDIX B – DEVELOPMENT OF THE OFFSET SURFACE
+
 ## 2.1. Defining each component of the partial derivatives $\frac{\partial\vec{S}(u,v)}{\partial{u}}$ and $\frac{\partial\vec{S}(u,v)}{\partial{v}}$ as described in Eqs. 17 and Eq. 18, respectively:
 
 Sxu = Derivative(Sx,u,1)<br>
