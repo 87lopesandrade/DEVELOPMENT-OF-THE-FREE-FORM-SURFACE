@@ -1,3 +1,5 @@
+Table A1 - The points defined and the corresponding curve to construct part of the free-form surface.
+
 | Curve | Point | x(mm) | y(mm) | z(mm) |
 | --- | --- | --- | --- | --- |
 | c_1(u) | P_1 | -1 | -57 | 38 |
