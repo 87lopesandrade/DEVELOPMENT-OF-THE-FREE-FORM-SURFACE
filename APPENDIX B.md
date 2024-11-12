@@ -9,17 +9,17 @@ Szv = Derivative(Sz,v,1)<br>
 
 ## 2.2. Defining each component of the normal vector of surface $\vec{S}$ as shown in the numerator of the fraction in Eq. 19. Here, the cross product is calculated:
 
-Nx(u,v) = Syu(u,v)*Szv(u,v)-Szu(u,v)*Syv(u,v)<br>
-Ny(u,v) = Szu(u,v)*Sxv(u,v)-Sxu(u,v)*Szv(u,v)<br>
-Nz(u,v) = Sxu(u,v)*Syv(u,v)-Syu(u,v)*Sxv(u,v)<br>
+Nx(u,v) = Syu(u,v) * Szv(u,v) - Szu(u,v) * Syv(u,v)<br>
+Ny(u,v) = Szu(u,v) * Sxv(u,v) - Sxu(u,v) * Szv(u,v)<br>
+Nz(u,v) = Sxu(u,v) * Syv(u,v) - Syu(u,v) * Sxv(u,v)<br>
 
-## 2.3. Defining each component N_x (u,v), N_y (u,v) and N_z (u,v) of the unit normal vector N ⃗ as described in Eq. 19:
+## 2.3. Defining each component $N_x(u,v)$, $N_y(u,v)$ and $N_z(u,v)$ of the unit normal vector $\vec{N}$ as described in Eq. 19:
 
 Nxunit(u,v) = Nx(u,v)/sqrt(Nx(u,v)^2+Ny(u,v)^2+Nz(u,v)^2)<br>
 Nyunit(u,v) = Ny(u,v)/sqrt(Nx(u,v)^2+Ny(u,v)^2+Nz(u,v)^2)<br>
 Nzunit(u,v) = Nz(u,v)/sqrt(Nx(u,v)^2+Ny(u,v)^2+Nz(u,v)^2)<br>
 
-## 2.4. Defining the distance r between the surfaces S ⃗_off and S ⃗ as shown in Eq. 20:
+## 2.4. Defining the distance $r$ between the surfaces $\vec{S}_off$ and $\vec{S}$ as shown in Eq. 20:
 
 r = 10
 
