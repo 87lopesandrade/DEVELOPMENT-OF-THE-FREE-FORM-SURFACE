@@ -1,3 +1,5 @@
+# APPENDIX A – DEVELOPMENT OF THE FREE-FORM SURFACE
+
 ## 1.1. Defining the coordinates of the points for the first curve $\vec{c}_1$:
 
 xP1 = -1<br>
